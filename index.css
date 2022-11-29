@@ -157,19 +157,18 @@ h1 {
 
 .rightInput p {
     margin-top: 11px;
-
+    width: auto;
     margin-left: 14px;
     height: 49px;
     border-color: none;
     border: none;
-    width: 197px;
     font-size: 35px;
 
 }
 
 .bodyBottomRightBottom {
     margin-top: 20px;
-
+    width: auto;
     border: 1px solid #9F9F9F;
 
 }
